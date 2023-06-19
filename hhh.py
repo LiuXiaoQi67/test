@@ -1,1 +1,1 @@
-print('woshinewgit')
+print('woshiagine new git')
